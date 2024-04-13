@@ -1,6 +1,6 @@
 # Discord.js son sürümü için v14 boş şablon. Eval komutu ile birlikte.
 **Eval komutunu bulamadım hiç bir yerde en son kendim yazdım. Hatalar oluşabilir.**
-
+#__Allah rızası için star atın emeklerim karşılıksız kalmasın.__
 # Kurulum ve kullanım.
 **Öncellikle dosyaları git veya manuel yolla indirin. Git kullananlar için detaylı anlatım yapacağım aşağıda.**
 
