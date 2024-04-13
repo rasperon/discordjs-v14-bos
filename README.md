@@ -16,4 +16,4 @@ komutunu çalıştırın. ardından ```npm i``` komutuyla paketlerin indirilmesi
 
 Tüm adımlar bittikten sonra `node rasperon.js` komutu ile botu başlatabilirsiniz. Herhangi sorun içinde issues kısmında issue açabilir yada discord @rasperon adresi ile bana ulaşabilirsiniz 💖
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/705665813994012695)](https://discord.com/users/705665813994012695)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1108799838876868738)](https://discord.com/users/1108799838876868738)
