@@ -4,7 +4,7 @@ module.exports = {
     name: Events.GuildDelete,
     execute: async (guild) => {
         let client = guild.client;
-        const add = client.channels.cache.get("1240150375105826816");
+        const add = client.channels.cache.get(""); //kanal idsini girin
         
         guild.fetchOwner().then(owner => {
             let ownerTag = owner ? owner.user.tag : "Bilinmiyor";
