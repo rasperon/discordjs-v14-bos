@@ -4,7 +4,7 @@ module.exports = {
     name: Events.GuildCreate,
     execute: async (guild) => {
         let client = guild.client;
-        const add = client.channels.cache.get("1240150233804181557");
+        const add = client.channels.cache.get(""); //kanal idsini girin
         
         guild.fetchOwner().then(owner => {
             let ownerTag = owner ? owner.user.tag : "Bilinmiyor";
