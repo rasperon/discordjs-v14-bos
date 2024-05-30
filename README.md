@@ -1,4 +1,4 @@
-# Discord.js son sürümü için v14 boş şablon. Eval komutu ile birlikte.
+# Discord.js son sürümü için v14 boş şablon. Eval komutu, atıldım, eklendim eventleri ile birlikte.
 **Eval komutunu bulamadım hiç bir yerde en son kendim yazdım. Hatalar oluşabilir.**
 
 # __Allah rızası için star atın emeklerim karşılıksız kalmasın.__
