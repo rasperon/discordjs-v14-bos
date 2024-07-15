@@ -51,8 +51,6 @@ for (const file of eventFiles) {
 }
 
 (async () => {
-	await mongoose.connect(mongoUrl);
-	console.log("[+] Veritabanı ile bağlantı kuruldu.");
 	
 	client.login(token);
 })();
